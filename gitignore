@@ -1,0 +1,5 @@
+secret.js
+/package/
+/node_modules/
+*log
+
